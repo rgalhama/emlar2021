@@ -1,4 +1,6 @@
-# EMLAR XVII 2021 - Computational Modelling in Python
+# EMLAR XVII 2021 - Computational Modelling in Python: Distributional Semantic Models
+
+Raquel G. Alhama and Andrew Jessop
 
 Here are the materials for a tutorial at [Experimental Methods in Language Acquisition Research 2021 workshop](https://emlar.wp.hum.uu.nl/). 
 
